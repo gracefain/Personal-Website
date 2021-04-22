@@ -1,12 +1,21 @@
-﻿body
-{
-    background-color:lightgray;
-}
-
-nav {
+﻿body {
     background-color: whitesmoke;
 }
 
-.navbar navbar-default {
-    list-style-image: none;
+nav {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.navbar {
+    list-style-type: none;
+    color: inherit;
+}
+
+li a {
+    color: inherit;
+}
+
+a {
+    color: inherit;
 }
