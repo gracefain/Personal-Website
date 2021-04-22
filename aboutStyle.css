@@ -1,12 +1,30 @@
 ﻿body
 {
-    background-color: lightgray;
-}
-
-nav {
     background-color: whitesmoke;
 }
 
-.navbar navbar-default {
-    list-style-image: none;
+nav {
+    background-color: lightgray;
+}
+
+ul {
+    list-style-type: none;
+    color: inherit;
+}
+
+li a {
+    color: inherit;
+}
+
+#PersonalInfo {
+    float: left;
+    width: 250px;
+    padding: 15px;
+    margin: 25px;
+}
+#education {
+    float: left;
+    width: 250px;
+    padding: 15px;
+    margin: 25px;
 }
