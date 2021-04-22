@@ -31,7 +31,8 @@ li a{
     margin: 25px;
 }
 img{
-    height: 150px;
-    width: 100px;
+    height: 300px;
+    width: 250px;
+    padding: 15px;
     float: left;
 }
