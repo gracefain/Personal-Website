@@ -11,3 +11,10 @@ nav
 .navbar navbar-default{
     list-style-image:none;
 }
+
+#Purpose{
+    float:left;
+}
+#Intro{
+    float:right;
+}
