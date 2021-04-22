@@ -20,9 +20,15 @@ li a{
 
 #Purpose{
     float:left;
+    width: 250px;
+    padding: 15px;
+    margin: 25px;
 }
-#Intro{
-    float:left;
+#Intro {
+    float: left;
+    width: 250px;
+    padding: 15px;
+    margin: 25px;
 }
 img{
     height: 150px;
