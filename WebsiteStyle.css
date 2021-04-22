@@ -1,8 +1,13 @@
-﻿body
-{
+﻿body{
     background-color:lightgray;
 }
+
+
 nav
 {
-    background-color: dimgray;
+    background-color: whitesmoke;
+}
+
+.navbar navbar-default{
+    list-style-image:none;
 }
