@@ -2,9 +2,7 @@
 {
     background-color:lightgray;
 }
-nav{
+nav
+{
     background-color: dimgray;
-}
-ul.nav navbar-nav{
-    list-style-type:none;
 }
