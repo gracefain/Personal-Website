@@ -5,6 +5,7 @@
 
 nav {
     background-color: lightgray;
+    padding: 10px;
 }
 
 ul {
@@ -18,7 +19,7 @@ li a {
 
 #PersonalInfo {
     float: left;
-    width: 250px;
+    width: 275px;
     padding: 15px;
     margin: 25px;
 }
