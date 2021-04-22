@@ -1,18 +1,22 @@
 ﻿body{
-    background-color:lightgray;
+    background-color:whitesmoke;
 }
 
 
 nav
 {
-    background-color: whitesmoke;
+    background-color: lightgray;
     padding: 10px;
 }
 
 ul{
     list-style-type:none;
+    color:inherit;
 }
 
+.home{
+    padding: 50px;
+}
 #Purpose{
     float:left;
 }
