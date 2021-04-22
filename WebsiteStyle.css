@@ -1,4 +1,10 @@
 ﻿body
 {
-    background-color:pink;
+    background-color:lightgray;
+}
+nav{
+    background-color: dimgray;
+}
+ul.nav navbar-nav{
+    list-style-type:none;
 }
