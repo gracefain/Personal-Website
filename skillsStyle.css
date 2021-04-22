@@ -19,3 +19,13 @@ li a {
 a {
     color: inherit;
 }
+#hardskills{
+    width: 500px;
+    border:5px solid black;
+    float: left;
+}
+#softskills{
+    width: 500px;
+    border: 5px solid black;
+    float: left;
+}
