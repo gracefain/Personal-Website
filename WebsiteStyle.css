@@ -13,10 +13,11 @@ ul{
     list-style-type:none;
     color:inherit;
 }
-
-.home{
-    padding: 50px;
+li a{
+    color:inherit;
 }
+
+
 #Purpose{
     float:left;
 }
@@ -24,7 +25,7 @@ ul{
     float:left;
 }
 img{
-    height: 100px;
-    width: 75px;
-    float: right;
+    height: 150px;
+    width: 100px;
+    float: left;
 }
